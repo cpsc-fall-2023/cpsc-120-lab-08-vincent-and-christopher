@@ -1,5 +1,5 @@
 // Vincent Masiclat
-// vincemasiclat05@fullerton.edu
+// vincemasiclat05@csu.fullerton.edu
 // @VinceMasiclat
 // Partners: @Ctdiep
 
