@@ -9,7 +9,7 @@
 
 int main(int argc, char* argv[]) {
   std::vector<std::string> arguments{argv, argv + argc};
-  if (arguments.size() !=4) {
+  if (arguments.size() != 4) {
     std::cout << "Error: you must supply three arguments\n";
     return 1;
   }
@@ -18,7 +18,7 @@ int main(int argc, char* argv[]) {
   std::string condiment{arguments.at(3)};
 
   std::cout << "Your order: \n"
-            << "A " <<protein << " sandwich on " << bread << " with "
+            << "A " << protein << " sandwich on " << bread << " with "
             << condiment << ".";
   return 0;
 }
