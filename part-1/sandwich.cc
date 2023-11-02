@@ -1,7 +1,7 @@
 // Vincent Masiclat
 // vincemasiclat05@fullerton.edu
 // @VinceMasiclat
-// Partners: Ctdiep
+// Partners: @Ctdiep
 
 #include <iostream>
 #include <string>
